@@ -6,12 +6,12 @@
 
 # Data
 - A few Identified factors that influence our decision are:
--- Covid-19 cases per district “Seattle”
--- Total population in Seattle
--- 10 most population in Seattle 
--- Hospital for treatment covid-19 
+- Covid-19 cases per district “Seattle”
+- Total population in Seattle
+- 10 most population in Seattle 
+- Hospital for treatment covid-19 
 
-# The following data sources are needed to extract/generate the required information:
+### The following data sources are needed to extract/generate the required information:
 - Processed covid-19 positive case data collection on 1 April 2021.
 - The distribution of mask sales based on the population in the Seattle area.
 - The distribution of mask sales based on 5 districts with the most densely populated populations.
